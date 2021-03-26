@@ -89,7 +89,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simple React Portfolio" width="100%">
+  <img src="https://github.com/soujanya-nekkenti/react-portfolio/blob/master/example.png" alt="Gatsby Simple React Portfolio" width="100%">
 </h2>
 
 ---
@@ -105,8 +105,8 @@ Go to `/src/mock/data.js` and fill your information, they are 5 objects:
 ```javascript
 export const heroData = {
   title: '', // Hello, my name is
-  name: '', // Sara
-  subtitle: '', // I'm the Unknown Developer.
+  name: '', // Soujanya
+  subtitle: '', // I'm a Web Developer.
   cta: '', // Know more
 };
 ```
@@ -222,18 +222,7 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
-
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
 
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments 🎁
-
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
