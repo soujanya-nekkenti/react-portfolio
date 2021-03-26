@@ -47,7 +47,7 @@ From your command line, first clone the repository:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/soujanya-nekkenti/simple-react-portfolip
+$ git clone https://github.com/soujanya-nekkenti/react-portfolio
 
 # Go into the repository
 $ cd gatsby-simplefolio
